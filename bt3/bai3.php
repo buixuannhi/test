@@ -5,7 +5,7 @@ if(isset($_SESSION['counter'])){
 }else{
     $_SESSION['counter']=1;
 }
-$msg = "bạn đã truy cập trang này  ". $_SESSION['counter'];
+$msg = "sdkfjs  ". $_SESSION['counter'];
 $msg .="  lần trong session này .";
 ?>
 <!DOCTYPE html>
